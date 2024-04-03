@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sucaad</h1>
 <h3 align="center">A passionate fullStack developer from Somalia</h3>
 
- <img width="400" align="right" alt="Coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" /> </p>
+ <img width="400" align="right" alt="Coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /> </p>
 
 - 🌱 I’m currently learning **NextJs**
 
