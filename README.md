@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://suad-omega.vercel.app/](https://suad-omega.vercel.app/)
+- 👨‍💻 Check my PersonalPortifolio [https://suad-omega.vercel.app/](https://suad-omega.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
