@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **sususalax393@gmail.com**
+- 📫 How to reach me **suad9741@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
