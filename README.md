@@ -1,7 +1,6 @@
 <!-- PROFILE HEADER -->
 # Hi, I'm Susu Salax – Full Stack MERN Developer | Web Enthusiast
 
-<!-- SOCIAL LINKS -->
 ## Contact Me
 <div style="display: flex; gap: 20px; align-items: center;">
   <a href="mailto:suad9741@gmail.com" target="_blank">
