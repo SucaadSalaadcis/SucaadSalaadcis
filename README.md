@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me
-I'm a passionate **Full-Stack Developer** turning ideas into real-world applications. I work with **MERN stack, Next.js, and TypeScript**, building projects that make an impact and constantly improving my skills.  
+I'm a passionate **Full-Stack Developer** creating web applications from front-end to back-end. I enjoy building projects that make an impact and continuously learning new technologies like **Next.js, MERN Stack, and TypeScript**.
 
 ---
 
@@ -26,29 +26,24 @@ I'm a passionate **Full-Stack Developer** turning ideas into real-world applicat
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sucaadsalaadcis&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucaadsalaadcis&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sucaadsalaadcis&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sucaadsalaadcis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucaadsalaadcis&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
+<p align="center">
 - Portfolio: *updating*  
 - LinkedIn: [Sucaad Salax](https://www.linkedin.com/in/suadsalad/)  
-- Email: suad9741@gmail.com  
+- Email: suad9741@gmail.com
+</p>
 
 ---
 
-### 👀 Profile Visitors
+### 👀 Profile Views
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sucaadsalaadcis/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=sucaadsalaadcis&color=blue" alt="Profile views" />
 </p>
 
 ---
