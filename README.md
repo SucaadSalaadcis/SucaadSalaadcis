@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
 
 
-I'm a **Full-Stack Developer (MERN Stack)** passionate about building **modern web applications**.  
-I enjoy working with **React, Node.js, Express, MongoDB**, and creating **responsive, user-friendly interfaces**.  
-Always eager to **learn new technologies** and contribute to **real-world projects**.
+I'm a **Full-Stack Developer** passionate about building **modern web applications**.  
+I enjoy creating **responsive, user-friendly interfaces** and working on projects that solve real-world problems.  
+Always eager to **learn new technologies** and contribute to **impactful projects**.
 
 - 🔭 I’m currently building **full-stack web applications** and exploring **open-source projects**
 - 🌱 Always exploring **modern web technologies, cloud integration, and scalable applications**
