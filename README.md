@@ -15,14 +15,6 @@ I love building **web applications**, exploring **new technologies**, and contri
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourprofile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-
----
-
 ## 🛠 Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
