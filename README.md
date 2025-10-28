@@ -1,55 +1,53 @@
-# Hi, I'm Susu Salax | Full Stack MERN Developer passionate about web development!
+# Hi, I'm [Your Name] 👋
 
-Sharing my journey in full-stack web development and building projects focused on responsive, modern, and dynamic web apps.  
-
-Check out my portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-Reach me at: [suad9741@gmail.com](mailto:suad9741@gmail.com) • [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-
----
-
-## Languages & Tools
-HTML5, CSS3, JavaScript, React, Redux, Node.js, Express, MongoDB, Bootstrap, Tailwind CSS, Python, C++, Git, Linux, Figma, Illustrator, Postman
+[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-black?logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
-## Projects
-- **MERN Web App** – Full-stack web application using MongoDB, Express, React, and Node.js. [View on GitHub](https://github.com/saif-mohammed1/project1)  
-- **React Dashboard** – Interactive dashboard with React & Redux. [View on GitHub](https://github.com/saif-mohammed1/project2)  
-- **Node API** – RESTful API built with Node.js & MongoDB. [View on GitHub](https://github.com/saif-mohammed1/project3)
+## About Me
+
+I'm a **full-stack developer**, **UI/UX enthusiast**, and lifelong **learner**.  
+I love building **web applications**, exploring **new technologies**, and contributing to **open-source projects**.  
+
+- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/project)
+- 🌱 I’m currently learning **TypeScript, Next.js, and AI integration**
+- 💬 Ask me about **React, Node.js, Python**
+- 📫 How to reach me: [Email Me](mailto:youremail@example.com)
 
 ---
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=saif-mohammed1)
+## 🌐 Connect with Me
 
-
-## Languages & Tools
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourprofile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 ---
 
-## Projects
-- **MERN Web App** – A full-stack web application using MongoDB, Express, React, and Node.js. [View on GitHub](https://github.com/saif-mohammed1/project1)  
-- **React Dashboard** – Interactive dashboard with React & Redux. [View on GitHub](https://github.com/saif-mohammed1/project2)  
-- **Node API** – RESTful API built with Node.js & MongoDB. [View on GitHub](https://github.com/saif-mohammed1/project3)
+## 🛠 Skills & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📈 GitHub Stats
+
+![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌟 Fun Section (Optional)
+
+- 🚀 Fun fact: I love coffee ☕ and coding late nights  
+- 🎮 Gamer at heart, developer by passion  
+- 📝 Check out my blog: [yourblog.com](https://yourblog.com)
