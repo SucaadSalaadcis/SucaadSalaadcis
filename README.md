@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sucaad</h1>
-<h3 align="center">Full-Stack Developer | Turning ideas into functional and impactful web applications</h3>
+<h3 align="center">Full-Stack Developer | Turning ideas into functional, user-friendly web applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="500"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
 ---
 
 ### 🌱 About Me
-I'm a passionate **Full-Stack Developer** building web applications from **front-end to back-end**. I love turning ideas into interactive, user-friendly projects while constantly learning new technologies like **Next.js, MERN stack, and TypeScript**.
+I'm a passionate **Full-Stack Developer** building applications from **front-end to back-end**. I enjoy turning ideas into interactive and user-friendly digital solutions while constantly learning new technologies like **Next.js, MERN Stack, and TypeScript**.
 
 ---
 
-### 💻 Skills & Tools
+### 💻 Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -29,9 +29,9 @@ I'm a passionate **Full-Stack Developer** building web applications from **front
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sucaadsalaadcis&show_icons=true&theme=radical" alt="Sucaad's GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucaadsalaadcis&layout=compact&theme=radical" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sucaadsalaadcis&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucaadsalaadcis&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -46,11 +46,11 @@ I'm a passionate **Full-Stack Developer** building web applications from **front
 ### 📫 Contact Me
 - Portfolio: *updating*  
 - LinkedIn: [Sucaad Salax](https://www.linkedin.com/in/suadsalad/)  
-- Email: suad9741@gmail.com
+- Email: suad9741@gmail.com  
 
 ---
 
-### 👀 Visitor Count
+### 👀 Profile Visitors
 <p align="center">
   <img src="https://profile-counter.glitch.me/sucaadsalaadcis/count.svg" alt="Visitor Count"/>
 </p>
