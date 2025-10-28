@@ -49,5 +49,4 @@ I love building **web applications**, exploring **new technologies**, and contri
 ## 🌟 Fun Section (Optional)
 
 - 🚀 Fun fact: I love coffee ☕ and coding late nights  
-- 🎮 Gamer at heart, developer by passion  
-- 📝 Check out my blog: [yourblog.com](https://yourblog.com)
+
