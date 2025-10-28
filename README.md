@@ -1,13 +1,26 @@
-# Hi, I'm Susu Salax – Full Stack MERN Developer
+# Hi, I'm Susu Salax | Full Stack MERN Developer passionate about web development!
 
-Full Stack Developer passionate about building modern web apps. I specialize in the **MERN stack** and enjoy creating responsive and dynamic web applications.
+Sharing my journey in full-stack web development and building projects focused on responsive, modern, and dynamic web apps.  
+
+Check out my portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+Reach me at: [suad9741@gmail.com](mailto:suad9741@gmail.com) • [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+
+---
+
+## Languages & Tools
+HTML5, CSS3, JavaScript, React, Redux, Node.js, Express, MongoDB, Bootstrap, Tailwind CSS, Python, C++, Git, Linux, Figma, Illustrator, Postman
 
 ---
 
-## Contact Me
-[📧 Email](mailto:suad9741@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin)
+## Projects
+- **MERN Web App** – Full-stack web application using MongoDB, Express, React, and Node.js. [View on GitHub](https://github.com/saif-mohammed1/project1)  
+- **React Dashboard** – Interactive dashboard with React & Redux. [View on GitHub](https://github.com/saif-mohammed1/project2)  
+- **Node API** – RESTful API built with Node.js & MongoDB. [View on GitHub](https://github.com/saif-mohammed1/project3)
 
 ---
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=saif-mohammed1)
+
 
 ## Languages & Tools
 <p align="left">
