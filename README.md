@@ -13,7 +13,6 @@ Always eager to **learn new technologies** and contribute to **real-world projec
 - 🔭 I’m currently building **full-stack web applications** and exploring **open-source projects**
 - 🌱 Always exploring **modern web technologies, cloud integration, and scalable applications**
 - 💬 Passionate about **building efficient web apps, REST APIs, and solving complex coding challenges**
-- 📫 You can reach me via **[Email](mailto:suad9741@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/suadsalad/)**
 
 ---
 
