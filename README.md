@@ -2,7 +2,6 @@
 
 [![Email](https://img.shields.io/badge/Email-suad9741@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:suad9741@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
-[![GitHub](https://img.shields.io/badge/GitHub-@saif-mohammed1-black?style=flat&logo=github&logoColor=white)](https://github.com/saif-mohammed1)
 
 ---
 
