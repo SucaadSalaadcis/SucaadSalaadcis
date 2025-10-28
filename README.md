@@ -79,7 +79,7 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ---
 
-## 🌟 Fun Section (Optional)
+## 🌟 Fun Section
 
 - 🚀 Fun fact: I love coffee ☕ and coding late nights  
 
