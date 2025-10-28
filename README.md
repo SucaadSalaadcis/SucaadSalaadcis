@@ -4,9 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
 
 
----
-
-## About Me
 
 I'm a **full-stack developer**, **UI/UX enthusiast**, and lifelong **learner**.  
 I love building **web applications**, exploring **new technologies**, and contributing to **open-source projects**.  
