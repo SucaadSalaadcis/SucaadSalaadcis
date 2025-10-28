@@ -12,6 +12,15 @@ Always eager to **learn new technologies** and contribute to **impactful project
 - 💬 Passionate about **building efficient web apps, REST APIs, and solving complex coding challenges**
 
 ---
+## 📈 GitHub Stats
+
+![SucaadSalaadcis's GitHub stats](https://github-readme-stats.vercel.app/api?username=SucaadSalaadcis&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SucaadSalaadcis&theme=radical)
+
+---
 
  ## Languages and Tools
 <p align="left">
@@ -69,13 +78,6 @@ Always eager to **learn new technologies** and contribute to **impactful project
 </p>
 
 
----
-
-## 📈 GitHub Stats
-
-![SucaadSalaadcis's GitHub stats](https://github-readme-stats.vercel.app/api?username=SucaadSalaadcis&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
 
 
 ---
