@@ -9,7 +9,7 @@ I'm a **full-stack developer**, **UI/UX enthusiast**, and lifelong **learner**.
 I love building **web applications**, exploring **new technologies**, and contributing to **open-source projects**.  
 
 - 🔭 I’m currently working on [Project Name](https://github.com/yourusername/project)
-- 🌱 I’m currently learning **TypeScript, Next.js, and AI integration**
+- 🌱 I’m currently learning **Next.js, and AI integration**
 - 💬 Ask me about **React, Node.js, Python**
 - 📫 How to reach me: [Email Me](mailto:youremail@example.com)
 
