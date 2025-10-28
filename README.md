@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sucaad</h1>
 <h3 align="center">Full-Stack Developer | Building functional, user-friendly web applications</h3>
 
----
-
 ### 🌱 About Me
 I'm a passionate **Full-Stack Developer** creating web applications from front-end to back-end. I enjoy building projects that make an impact and continuously learning new technologies like **Next.js, MERN Stack, and TypeScript**.
 
