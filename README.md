@@ -82,7 +82,7 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ---
 
-## 🌟 Fun Section
+##  Fun Section
 
-- 🚀 Fun fact: I love coffee ☕ and coding late nights  
+-  Fun fact:  Always curious 🤔—I love learning new tech and experimenting with projec
 
