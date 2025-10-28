@@ -18,7 +18,7 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SucaadSalaadcis&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SucaadSalaadcis&theme=radical)
 
 ---
 
