@@ -2,10 +2,16 @@
 # Hi, I'm Susu Salax – Full Stack MERN Developer | Web Enthusiast
 
 <!-- SOCIAL LINKS -->
-Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saif-mohammed1)  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@your-username)
+## Contact Me
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="mailto:suad9741@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
 
 <!-- PROFILE VISITORS -->
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=saif-mohammed1)
