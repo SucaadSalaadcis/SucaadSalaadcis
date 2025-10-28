@@ -11,6 +11,7 @@ Always eager to **learn new technologies** and contribute to **impactful project
 - 🌱 Always exploring **modern web technologies, cloud integration, and scalable applications**
 - 💬 Passionate about **building efficient web apps, REST APIs, and solving complex coding challenges**
 
+---
 
  ## Languages and Tools
 <p align="left">
