@@ -1,5 +1,4 @@
 # Hi, I'm Suad 👋
-
 [![Email](https://img.shields.io/badge/Email-suad9741@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:suad9741@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
 
