@@ -2,8 +2,6 @@
 [![Email](https://img.shields.io/badge/Email-suad9741@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:suad9741@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
 
----
-
 
 I'm a **Full-Stack Developer (MERN Stack)** passionate about building **modern web applications**.  
 I enjoy working with **React, Node.js, Express, MongoDB**, and creating **responsive, user-friendly interfaces**.  
