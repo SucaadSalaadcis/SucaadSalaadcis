@@ -6,7 +6,6 @@
 
 ---
 
-## About Me
 
 I'm a **Full-Stack Developer (MERN Stack)** passionate about building **modern web applications**.  
 I enjoy working with **React, Node.js, Express, MongoDB**, and creating **responsive, user-friendly interfaces**.  
