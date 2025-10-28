@@ -83,5 +83,5 @@ Always eager to **learn new technologies** and contribute to **impactful project
 ---
 
 ##  Fun fact
- Always curious 🤔—I love learning new tech and experimenting with projec
+ Always curious 🤔—I love learning new tech and experimenting with projects 
 
