@@ -7,9 +7,9 @@ I'm a **Full-Stack Developer** passionate about building **modern web applicatio
 I enjoy creating **responsive, user-friendly interfaces** and working on projects that solve real-world problems.  
 Always eager to **learn new technologies** and contribute to **impactful projects**.
 
-- 🔭 I’m currently building **full-stack web applications** and exploring **open-source projects**
-- 🌱 Always exploring **modern web technologies, cloud integration, and scalable applications**
-- 💬 Passionate about **building efficient web apps, REST APIs, and solving complex coding challenges**
+ 🔭 I’m currently building **full-stack web applications** and exploring **open-source projects**
+ 🌱 Always exploring **modern web technologies, cloud integration, and scalable applications**
+ 💬 Passionate about **building efficient web apps, REST APIs, and solving complex coding challenges**
 
 ---
 ## 📈 GitHub Stats
