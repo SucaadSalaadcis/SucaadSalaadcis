@@ -1,9 +1,8 @@
 # Hi, I'm [Your Name] 👋
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-black?logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-suad9741@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:suad9741@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
+
 
 ---
 
