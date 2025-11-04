@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suadsalad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suadsalad/)
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=saif-mohammed1)
 
-I'm a **Full-Stack Developer** passionate about building **modern web applications**.  
+A **Full-Stack Developer** passionate about building **modern web applications**.  
 I enjoy creating **responsive, user-friendly interfaces** and working on projects that solve real-world problems.  
 Always eager to **learn new technologies** and contribute to **impactful projects**.
 
