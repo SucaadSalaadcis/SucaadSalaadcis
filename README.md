@@ -18,7 +18,8 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SucaadSalaadcis&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SucaadSalaadcis&theme=radical&utcOffset=2)
+
 
 
 
