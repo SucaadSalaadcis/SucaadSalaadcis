@@ -18,7 +18,7 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
 
-![snake gif](https://github.com/SucaadSalaadcis/SucaadSalaadcis/blob/output/github-contribution-grid-snake.svg)
+![SucaadSalaadcis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SucaadSalaadcis&theme=radical)
 
 
 
