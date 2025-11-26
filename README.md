@@ -16,7 +16,9 @@ Always eager to **learn new technologies** and contribute to **impactful project
 
 ![SucaadSalaadcis's GitHub stats](https://github-readme-stats.vercel.app/api?username=SucaadSalaadcis&show_icons=true&theme=radical)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SucaadSalaadcis&layout=compact&theme=radical)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SucaadSalaadcis&theme=radical)
 
